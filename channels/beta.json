@@ -1,12 +1,12 @@
 {
-  "version": "2026.0426.1808",
-  "tag": "beta-2026.0426.1808",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0426.1808/ForgeSync.exe",
-  "sha256": "4f8a84e8e5b59fd080e56c9f7c254770a903dd370c69b13dd68c55a66a9c8acd",
+  "version": "2026.0426.1914",
+  "tag": "beta-2026.0426.1914",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0426.1914/ForgeSync.exe",
+  "sha256": "449380b1775fe28256a5fc1b58c9cb5681f768befe7f004da2b72c862f447b8f",
   "size": 56924672,
-  "builtAtUtc": "2026-04-26T18:15:17Z",
+  "builtAtUtc": "2026-04-26T19:23:38Z",
   "sourceShas": {
-    "forgesync": "d60b7c1",
+    "forgesync": "dc7f0bd",
     "rtm.revit.plugin.forge": "44f3dd9",
     "rtm.Revit.Plugin": "561c24d"
   }
