@@ -1,0 +1,13 @@
+{
+  "version": "2026.0426.1735",
+  "tag": "beta-2026.0426.1735",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0426.1735/ForgeSync.exe",
+  "sha256": "d9a944c008715710f358a1d36a5c4eb0d92a06c9440f852397057c5531150c34",
+  "size": 56658432,
+  "builtAtUtc": "2026-04-26T17:45:28Z",
+  "sourceShas": {
+    "forgesync": "065352c",
+    "rtm.revit.plugin.forge": "44f3dd9",
+    "rtm.Revit.Plugin": "46d89d7"
+  }
+}
