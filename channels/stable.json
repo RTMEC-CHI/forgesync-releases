@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.1208",
-  "tag": "stable-2026.0427.1208",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0427.1208/ForgeSync.exe",
-  "sha256": "45a8f7cf370a25e424c3bf92582466bfec548e52e14e86e677605aec7b778390",
-  "size": 56953856,
-  "builtAtUtc": "2026-04-27T12:16:52Z",
+  "version": "2026.0427.2214",
+  "tag": "stable-2026.0427.2214",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0427.2214/ForgeSync.exe",
+  "sha256": "a9d64a07450ffe9660042b4515d40a595cb90ee84c7e3c8cdb15430c04c6b60b",
+  "size": 57038336,
+  "builtAtUtc": "2026-04-27T22:22:46Z",
   "sourceShas": {
-    "forgesync": "4783c45",
+    "forgesync": "4c60219",
     "rtm.revit.plugin.forge": "4b1f3e9",
-    "rtm.Revit.Plugin": "561c24d"
+    "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0426.1851\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Titlebar buttons send SC_CLOSE/SC_MINIMIZE + system menu on right-click\r\n- Titlebar buttons direct DestroyWindow/ShowWindow + 44px height\r\n- WM_NCCALCSIZE handler claims full client area + 56px title bar\r\n- Drop WM_NCCALCSIZE handler — it broke the chrome strip\r\n- Paint min/close buttons inline in title-bar Frame\r\n- Invalidate title_label when Frame repaints — preserves brand text\r\n- Bigger title-bar caption + drop redundant amber separator\r\n- Close button posts WM_QUIT so the process actually exits\r\n- Bigger title caption + subtler chrome divider\r\n- Size_absolute caption font + anchor buttons to Frame.right\r\n- Size title-bar to actual client width + Win11 button polish\r\n- Forge-flavored polish pass — progress bar, warning banner, dividers\r\n- In-dialog release notes + harden CI verify step\r\n- Copy polish — RTM not Microsoft, drop chatty interjections\r\n- Section accent bars + themed combobox subclass\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0427.1208\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Shrink CDN-propagation observation window from 6m to 60s\r\n- Single-window Download → Install dialog + per-user fixes\r\n- Cron-gated stable rebuild via sourceShas comparison\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n- Add RTM titleblock global address workflow\r\n\r\n\r\n"
 }
