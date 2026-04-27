@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.1955",
-  "tag": "beta-2026.0427.1955",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.1955/ForgeSync.exe",
-  "sha256": "1e3959c6ba8650e1ffbeac86c7bf63a2ec18f1f72c72f24a20e6fcbfc9f5a408",
+  "version": "2026.0427.2208",
+  "tag": "beta-2026.0427.2208",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.2208/ForgeSync.exe",
+  "sha256": "80516f049a6a7ba3f74abf47c02c9f6b51bfa62359c51d510f5291dc735d1b9a",
   "size": 57342976,
-  "builtAtUtc": "2026-04-27T20:04:15Z",
+  "builtAtUtc": "2026-04-27T22:17:38Z",
   "sourceShas": {
     "forgesync": "4783c45",
-    "rtm.revit.plugin.forge": "6018cd6",
+    "rtm.revit.plugin.forge": "66eefa3",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.1707\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n- Add RTM titleblock global address workflow\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.1955\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
