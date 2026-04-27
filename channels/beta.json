@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.1359",
-  "tag": "beta-2026.0427.1359",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.1359/ForgeSync.exe",
-  "sha256": "d63e17464629cbe45c70ef18b2be214eb18c9bd3d42cdb638980cd4fab604c3f",
-  "size": 57265152,
-  "builtAtUtc": "2026-04-27T14:08:53Z",
+  "version": "2026.0427.1707",
+  "tag": "beta-2026.0427.1707",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.1707/ForgeSync.exe",
+  "sha256": "58517b1b939c02ed35f746fa75c18a77963c727155fd621ad3e4550d82fdd571",
+  "size": 57261056,
+  "builtAtUtc": "2026-04-27T17:17:26Z",
   "sourceShas": {
     "forgesync": "4783c45",
-    "rtm.revit.plugin.forge": "fcfc334",
+    "rtm.revit.plugin.forge": "6018cd6",
     "rtm.Revit.Plugin": "561c24d"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.1307\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- SpatialForge crash fixes\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.1359\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Forge(quickforge): cache milestone echo animations as static fields to eliminate per-call heap allocations\r\n- Patrol(luxesmith): replaced scattered TabItem styles with canonical ForgeTabItemStyle\r\n- Patrol(noxshade): removed 3 dead Batch 2 state tracker fields from SumForgeWindow\r\n\r\n_(+ 3 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
