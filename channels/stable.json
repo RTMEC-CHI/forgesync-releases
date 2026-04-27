@@ -1,13 +1,14 @@
 {
-  "version": "2026.0426.1851",
-  "tag": "stable-2026.0426.1851",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0426.1851/ForgeSync.exe",
-  "sha256": "2e4f6d4c9a4fc77cbe7dbea7a80ed5c3a5a40367b1ba1091a74ab8382fa9bd8c",
-  "size": 56654336,
-  "builtAtUtc": "2026-04-26T19:03:12Z",
+  "version": "2026.0427.1208",
+  "tag": "stable-2026.0427.1208",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0427.1208/ForgeSync.exe",
+  "sha256": "45a8f7cf370a25e424c3bf92582466bfec548e52e14e86e677605aec7b778390",
+  "size": 56953856,
+  "builtAtUtc": "2026-04-27T12:16:52Z",
   "sourceShas": {
-    "forgesync": "dc7f0bd",
+    "forgesync": "4783c45",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "561c24d"
-  }
+  },
+  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0426.1851\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Titlebar buttons send SC_CLOSE/SC_MINIMIZE + system menu on right-click\r\n- Titlebar buttons direct DestroyWindow/ShowWindow + 44px height\r\n- WM_NCCALCSIZE handler claims full client area + 56px title bar\r\n- Drop WM_NCCALCSIZE handler — it broke the chrome strip\r\n- Paint min/close buttons inline in title-bar Frame\r\n- Invalidate title_label when Frame repaints — preserves brand text\r\n- Bigger title-bar caption + drop redundant amber separator\r\n- Close button posts WM_QUIT so the process actually exits\r\n- Bigger title caption + subtler chrome divider\r\n- Size_absolute caption font + anchor buttons to Frame.right\r\n- Size title-bar to actual client width + Win11 button polish\r\n- Forge-flavored polish pass — progress bar, warning banner, dividers\r\n- In-dialog release notes + harden CI verify step\r\n- Copy polish — RTM not Microsoft, drop chatty interjections\r\n- Section accent bars + themed combobox subclass\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
