@@ -1,13 +1,14 @@
 {
-  "version": "2026.0427.0904",
-  "tag": "beta-2026.0427.0904",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.0904/ForgeSync.exe",
-  "sha256": "725f4775d17c2f34febb6ba6b7f5184f27d521d5cbdcac83f8622a49f2a492b8",
-  "size": 56953344,
-  "builtAtUtc": "2026-04-27T09:14:45Z",
+  "version": "2026.0427.1307",
+  "tag": "beta-2026.0427.1307",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.1307/ForgeSync.exe",
+  "sha256": "68fcb02e17538e6e3a539cd8431f3a2a00cb186dc2e352d37ca2625fa9cc0f46",
+  "size": 57265152,
+  "builtAtUtc": "2026-04-27T13:16:42Z",
   "sourceShas": {
-    "forgesync": "dc7f0bd",
-    "rtm.revit.plugin.forge": "6997061",
+    "forgesync": "4783c45",
+    "rtm.revit.plugin.forge": "f03feac",
     "rtm.Revit.Plugin": "561c24d"
-  }
+  },
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.0904\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Titlebar buttons send SC_CLOSE/SC_MINIMIZE + system menu on right-click\r\n- Titlebar buttons direct DestroyWindow/ShowWindow + 44px height\r\n- WM_NCCALCSIZE handler claims full client area + 56px title bar\r\n- Drop WM_NCCALCSIZE handler — it broke the chrome strip\r\n- Paint min/close buttons inline in title-bar Frame\r\n- Invalidate title_label when Frame repaints — preserves brand text\r\n- Bigger title-bar caption + drop redundant amber separator\r\n- Close button posts WM_QUIT so the process actually exits\r\n- Bigger title caption + subtler chrome divider\r\n- Size_absolute caption font + anchor buttons to Frame.right\r\n- Size title-bar to actual client width + Win11 button polish\r\n- Forge-flavored polish pass — progress bar, warning banner, dividers\r\n- In-dialog release notes + harden CI verify step\r\n- Copy polish — RTM not Microsoft, drop chatty interjections\r\n- Section accent bars + themed combobox subclass\r\n\r\n### Forge Tools improvements\r\n\r\n- Patrol(slagbeard-creator): register LOREMASTER achievement so toast action button unlocks work\r\n- Patrol(steelward): log CreateExternalCommandDataShim outer catch with Diagnostics.Log\r\n- Patrol(ironhelm): wrap SeedDefaults in try-catch so all 6 built-in commands attempt registration even if one throws\r\n- Forge(plumbersmith-creator): add LevelUpFanfareEngine — contextual milestone celebrations (Bronze→Mythic tiers)\r\n- Patrol(custodian): add Dispose() to WayfinderTipEngine and wire into RTMRunHelper.Dispose()\r\n- Patrol(swiftblade): add WhereElementIsNotElementType to ChangeSystemTypeCommand FEC chain\r\n- Forge(arcadesmith-creator): harden arcade game infrastructure - ArcadeGameBase OnClosing cleanup, long-safe score persist, complete input reset\r\n- Patrol(cinderbloom): add OnClosed event unsubscription for IsVisibleChanged and Loaded in CheckListWindow\r\n- Patrol(embersong): add WhereElementIsNotElementType quick filter to 4 collectors in PinForge and DuplicateForge\r\n- Forge(luxesmith-creator): add LuxeSearchBar component to RTMTools design system\r\n- Patrol(emberveil): applied ForgeTextBoxStyle/StandardComboBoxStyle to SpatialForgeWindow unstyled inputs\r\n- Patrol(flameveil): added AutomationProperties.Name binding to BulkUpdateAction button at line 602\r\n\r\n_(+ 12 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
