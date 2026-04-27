@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.2208",
-  "tag": "beta-2026.0427.2208",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.2208/ForgeSync.exe",
-  "sha256": "80516f049a6a7ba3f74abf47c02c9f6b51bfa62359c51d510f5291dc735d1b9a",
-  "size": 57342976,
-  "builtAtUtc": "2026-04-27T22:17:38Z",
+  "version": "2026.0427.2310",
+  "tag": "beta-2026.0427.2310",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.2310/ForgeSync.exe",
+  "sha256": "b5c7b3e1f6fd49020da52469dc53561babb7469bb5c6a5267cc70c2e370494f8",
+  "size": 57349632,
+  "builtAtUtc": "2026-04-27T23:19:00Z",
   "sourceShas": {
-    "forgesync": "4783c45",
+    "forgesync": "4c60219",
     "rtm.revit.plugin.forge": "66eefa3",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.1955\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.2208\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Shrink CDN-propagation observation window from 6m to 60s\r\n- Single-window Download → Install dialog + per-user fixes\r\n- Cron-gated stable rebuild via sourceShas comparison\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
