@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.2214",
-  "tag": "stable-2026.0427.2214",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0427.2214/ForgeSync.exe",
-  "sha256": "a9d64a07450ffe9660042b4515d40a595cb90ee84c7e3c8cdb15430c04c6b60b",
-  "size": 57038336,
-  "builtAtUtc": "2026-04-27T22:22:46Z",
+  "version": "2026.0428.0505",
+  "tag": "stable-2026.0428.0505",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0428.0505/ForgeSync.exe",
+  "sha256": "fd0d1ee2e8c6b808acab97d58fd92dc523a0f798135e77a0ce9ef8660de62b65",
+  "size": 57050624,
+  "builtAtUtc": "2026-04-28T05:13:07Z",
   "sourceShas": {
-    "forgesync": "4c60219",
+    "forgesync": "4a263dc",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0427.1208\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Shrink CDN-propagation observation window from 6m to 60s\r\n- Single-window Download → Install dialog + per-user fixes\r\n- Cron-gated stable rebuild via sourceShas comparison\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n- Add RTM titleblock global address workflow\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0427.2214\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Last-check.json artifact + Manual-check dialog can never hang\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
