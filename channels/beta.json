@@ -1,14 +1,14 @@
 {
-  "version": "2026.0427.2310",
-  "tag": "beta-2026.0427.2310",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0427.2310/ForgeSync.exe",
-  "sha256": "b5c7b3e1f6fd49020da52469dc53561babb7469bb5c6a5267cc70c2e370494f8",
-  "size": 57349632,
-  "builtAtUtc": "2026-04-27T23:19:00Z",
+  "version": "2026.0428.0646",
+  "tag": "beta-2026.0428.0646",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0428.0646/ForgeSync.exe",
+  "sha256": "e91eaa44cfb75c74396138fcc8b7eaffddd1055b75a0dea34c61680883c4e63b",
+  "size": 57394688,
+  "builtAtUtc": "2026-04-28T06:57:56Z",
   "sourceShas": {
-    "forgesync": "4c60219",
-    "rtm.revit.plugin.forge": "66eefa3",
+    "forgesync": "4a263dc",
+    "rtm.revit.plugin.forge": "4abf71c",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.2208\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Shrink CDN-propagation observation window from 6m to 60s\r\n- Single-window Download → Install dialog + per-user fixes\r\n- Cron-gated stable rebuild via sourceShas comparison\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0427.2310\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Last-check.json artifact + Manual-check dialog can never hang\r\n\r\n### Forge Tools improvements\r\n\r\n- Patrol(questwright): added Dungeon Alchemy System — ingredients, elixir recipes, crafting methods\r\n- Patrol(ashbane): harden ViewportPosition load reads with NomadFileSystem retry\r\n- Peer(trickster): filter craftable elixirs by ingredient availability\r\n- Forge(wayfinder): enrich idle tip pool and add 3 new contextual tip triggers\r\n- Peer(runesmith): fix two inaccurate idle tips in WayfinderTipEngine\r\n- Elder(lorewyrm): remove duplicate ExportForge idle tip, deduplicate PinForge tip\r\n- Gate all easter-egg particle toys behind EnableEasterEggs\r\n\r\n_(+ 4 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
