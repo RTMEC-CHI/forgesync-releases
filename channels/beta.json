@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.0724",
-  "tag": "beta-2026.0429.0724",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.0724/ForgeSync.exe",
-  "sha256": "fea01f15f7b6704c849b6828736c9c4885207c336f1bbcb68378f9f69d920328",
-  "size": 57554432,
-  "builtAtUtc": "2026-04-29T07:33:08Z",
+  "version": "2026.0429.1249",
+  "tag": "beta-2026.0429.1249",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.1249/ForgeSync.exe",
+  "sha256": "8d1392b4ddc009f205c22e8fd5c91e30cfc2b11a27dd287eb40e17085ce63d28",
+  "size": 58208256,
+  "builtAtUtc": "2026-04-29T12:57:16Z",
   "sourceShas": {
-    "forgesync": "4a263dc",
+    "forgesync": "34b53fa",
     "rtm.revit.plugin.forge": "e0e2881",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0428.1540\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0429.0724\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Native 3-frame wizard with forge-themed flair\r\n- Always-render component rows + RTM logo in title bar\r\n- RTM logo + parallel wordmarks across all three wizard chrome\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
