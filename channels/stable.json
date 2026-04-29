@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.1205",
-  "tag": "stable-2026.0429.1205",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1205/ForgeSync.exe",
-  "sha256": "36bcbaffc09c25ea150c5463183d61c817fc7bba9b0743d0e7e5b33bf7c75392",
-  "size": 57664512,
-  "builtAtUtc": "2026-04-29T12:12:48Z",
+  "version": "2026.0429.1215",
+  "tag": "stable-2026.0429.1215",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1215/ForgeSync.exe",
+  "sha256": "91cee8e5298d06b277489aa5c191d8fed3cca9b8a0757d3ad5cdd2c9f3c11448",
+  "size": 57672704,
+  "builtAtUtc": "2026-04-29T12:22:55Z",
   "sourceShas": {
     "forgesync": "2f78e9d",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0428.0505\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Native 3-frame wizard with forge-themed flair\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0429.1205\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
