@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.1235",
-  "tag": "stable-2026.0429.1235",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1235/ForgeSync.exe",
-  "sha256": "34e7c1437459fabd71ca8092814a9dd570ef95be29a667cf0404b6285ca26805",
-  "size": 57704448,
-  "builtAtUtc": "2026-04-29T12:42:34Z",
+  "version": "2026.0429.1448",
+  "tag": "stable-2026.0429.1448",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1448/ForgeSync.exe",
+  "sha256": "06151f5279776d7fe0b8d2ea8c9079d920c755920de2a645b33cafb7b9105b4d",
+  "size": 57708544,
+  "builtAtUtc": "2026-04-29T14:56:46Z",
   "sourceShas": {
-    "forgesync": "34b53fa",
+    "forgesync": "30c947d",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0429.1225\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- RTM logo + parallel wordmarks across all three wizard chrome\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Drop role-based channel gate; channel is a user preference\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
