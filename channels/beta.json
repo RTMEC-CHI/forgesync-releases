@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.1249",
-  "tag": "beta-2026.0429.1249",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.1249/ForgeSync.exe",
-  "sha256": "8d1392b4ddc009f205c22e8fd5c91e30cfc2b11a27dd287eb40e17085ce63d28",
+  "version": "2026.0429.1528",
+  "tag": "beta-2026.0429.1528",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.1528/ForgeSync.exe",
+  "sha256": "ad5280d5d513cd4db6f59d022735a4a4f7ff51e154df0a12ac16b0967ca026f0",
   "size": 58208256,
-  "builtAtUtc": "2026-04-29T12:57:16Z",
+  "builtAtUtc": "2026-04-29T15:36:16Z",
   "sourceShas": {
-    "forgesync": "34b53fa",
-    "rtm.revit.plugin.forge": "e0e2881",
+    "forgesync": "30c947d",
+    "rtm.revit.plugin.forge": "179f4b7",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0429.0724\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Native 3-frame wizard with forge-themed flair\r\n- Always-render component rows + RTM logo in title bar\r\n- RTM logo + parallel wordmarks across all three wizard chrome\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Drop role-based channel gate; channel is a user preference\r\n\r\n### Forge Tools improvements\r\n\r\n- Correct ribbon tab name from RTMTools to Forge in AdWindows lookups\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
