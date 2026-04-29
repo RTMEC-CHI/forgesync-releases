@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.1215",
-  "tag": "stable-2026.0429.1215",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1215/ForgeSync.exe",
-  "sha256": "91cee8e5298d06b277489aa5c191d8fed3cca9b8a0757d3ad5cdd2c9f3c11448",
-  "size": 57672704,
-  "builtAtUtc": "2026-04-29T12:22:55Z",
+  "version": "2026.0429.1225",
+  "tag": "stable-2026.0429.1225",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.1225/ForgeSync.exe",
+  "sha256": "04f61a2b4b0f8116896493e67acbbfcdbb36d4d0d20e6e2e43bdcc95c9fbbc44",
+  "size": 57686016,
+  "builtAtUtc": "2026-04-29T12:33:48Z",
   "sourceShas": {
-    "forgesync": "2f78e9d",
+    "forgesync": "548220e",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0429.1205\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published stable build stable-2026.0429.1215\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Always-render component rows + RTM logo in title bar\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
