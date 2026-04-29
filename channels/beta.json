@@ -1,14 +1,14 @@
 {
-  "version": "2026.0428.1540",
-  "tag": "beta-2026.0428.1540",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0428.1540/ForgeSync.exe",
-  "sha256": "7e8c38f71187aa5b67f1d055856a6d9cc58b5b34ee38676ea5f98f1892d903cb",
-  "size": 57423360,
-  "builtAtUtc": "2026-04-28T15:47:23Z",
+  "version": "2026.0429.0724",
+  "tag": "beta-2026.0429.0724",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.0724/ForgeSync.exe",
+  "sha256": "fea01f15f7b6704c849b6828736c9c4885207c336f1bbcb68378f9f69d920328",
+  "size": 57554432,
+  "builtAtUtc": "2026-04-29T07:33:08Z",
   "sourceShas": {
     "forgesync": "4a263dc",
-    "rtm.revit.plugin.forge": "6229946",
+    "rtm.revit.plugin.forge": "e0e2881",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0428.1314\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Patrol(velvetforge): add terminal periods to 5 empty-state messages\r\n- Patrol(conciergeforge): polish PatchNotesWindow export error with specific exception types\r\n- Patrol(crown): polish ExportButton label in CadForgeWindow from 'Forge DWGs' to 'Export DWGs'\r\n- Patrol(shimmerweave): Add ShadowBreathAnim storyboard and wire into StartBreathAnimation/StopBreathAnimation\r\n- Patrol(charm): added placeholder + tooltips to SpatialForgeWindow toolbar\r\n- Patrol(bellows): fix TextTrimming overflow in ViewportPositionQuickSelectWindow and add DropShadowEffect cleanup in RegionForgeWindow OnClosing\r\n- Forge(quickforge): cache pulse history animations and timer — no per-call allocs\r\n- Peer(anvilwyrm): fix indentation drift in HidePulseHistory ReduceMotion block\r\n\r\n_(+ 7 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "Comparing against published beta build beta-2026.0428.1540\r\n## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
