@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.1528",
-  "tag": "beta-2026.0429.1528",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.1528/ForgeSync.exe",
-  "sha256": "ad5280d5d513cd4db6f59d022735a4a4f7ff51e154df0a12ac16b0967ca026f0",
-  "size": 58208256,
-  "builtAtUtc": "2026-04-29T15:36:16Z",
+  "version": "2026.0429.1949",
+  "tag": "beta-2026.0429.1949",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0429.1949/ForgeSync.exe",
+  "sha256": "d891110b6fd49eaac9cfa4fb6c73d0a75be977f1449af7b007c01f5b7332b0f4",
+  "size": 58221568,
+  "builtAtUtc": "2026-04-29T19:57:50Z",
   "sourceShas": {
-    "forgesync": "30c947d",
-    "rtm.revit.plugin.forge": "179f4b7",
+    "forgesync": "55e8076",
+    "rtm.revit.plugin.forge": "75f81ba",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Drop role-based channel gate; channel is a user preference\r\n\r\n### Forge Tools improvements\r\n\r\n- Correct ribbon tab name from RTMTools to Forge in AdWindows lookups\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
