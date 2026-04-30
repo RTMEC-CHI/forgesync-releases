@@ -1,14 +1,14 @@
 {
-  "version": "2026.0430.1120",
-  "tag": "beta-2026.0430.1120",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.1120/ForgeSync.exe",
-  "sha256": "1fa20ffdffdcad4b49c7519f0c0def370fe183d41d86ad000f7f80b68567e7f9",
-  "size": 58270720,
-  "builtAtUtc": "2026-04-30T11:28:51Z",
+  "version": "2026.0430.1307",
+  "tag": "beta-2026.0430.1307",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.1307/ForgeSync.exe",
+  "sha256": "8f2cdb2a5d436a57b2efc4b02fdb9d147c51b54598ac1e1b3926dea34ed925f2",
+  "size": 58275328,
+  "builtAtUtc": "2026-04-30T13:16:18Z",
   "sourceShas": {
-    "forgesync": "55e8076",
+    "forgesync": "ec3c1f8",
     "rtm.revit.plugin.forge": "24b76fe",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Patrol(noxshade): remove dead ApplyBatch2TickEffects method and its only caller\r\n- Keyforge fixes and spatial forge fixes\r\n- Patrol(forgeheart): redirect PulseLaunching from DropShadowEffect to Border.Opacity\r\n- Forge(wayfinder): fix command name mismatches in Wayfinder tip trigger conditions\r\n- Patrol(glimmerscale): fix LogicSweeper Game Over z-index — particles no longer obscure win/loss message\r\n- Peer(runesmith): deduplicate WayfinderTip array — collapse triplicate tips into single canonical array, fix indentation, normalize naming\r\n- Patrol(loretome): add 1.0.36 changelog block for KeyForge overhaul, BarForge ribbon fix, crash hardening\r\n- Forge(treasureveil): ingredient discovery toast with rarity-scaled reveal\r\n- Elder(cruciwyrm): unsubscribe OnIngredientDiscovered in OnClosed phase 2\r\n- Patrol(lorespell): create RTMTools.UI/README.md — first architecture doc for the UI layer\r\n- Peer(cartomancer): confirm RTMTools.UI/README.md architecture is accurate\r\n- Forge(tempestforge): add ShockwaveModifier to SumForge Mania mode\r\n- Patrol(runeweave): rename StarLinkStar.Clicked to IsClicked for boolean naming consistency\r\n- Forge(oraclevein): add forge-memory query to verify and impact-analysis skills\r\n- Patrol(hearthwind): clarify HealthCheck status pill — shows error/warning counts together\r\n- Peer(runesmith): add prescriptive guidance to HealthCheck report headers\r\n- Patrol(switchyard): add IsLinked guard to SpatialForgeCommand.Run() and add IsLoaded check to zombie recovery\r\n- Patrol(threadguard): fix fire-and-forget async void in ScheduleForCurrentTransition\r\n- Patrol(ironvow): created Sentinel.TryReadTinyJsonField — unified hand-scan JSON parser with null-byte/DoS guards; migrated ForgeSyncInstallerHook.TryReadPendingVersion and ForgeSyncStatusReader.IsSnoozeActive to shared helper\r\n- Patrol(steelward): migrate DuplicateViews and ToggleHalftone to CommandError.ShowOperationFailed\r\n- Forge(plumbersmith-creator): stop all 5 Forever storyboards in ForgeFloatingStatus.OnClosing\r\n- Forge(sumsmith-creator): fix intensity overlay timer leaks and re-trigger races in SumForgeWindow\r\n- Peer(chaosmaw): add StopAllEffectTimers and UnregisterEffectTimer to AnnounceResonanceOverdrive to match tier transition pattern\r\n- Patrol(aegis): Guard GetSelection() null refs, defer OrderBy until needed\r\n- Elder(cruciwyrm): silence double-Unregister in ResonanceOverdriveFade_Tick, add ReduceMotion guard to AnnounceResonanceOverdrive\r\n- Forge(glimmerscale-creator): Stop RepeatBehavior=Forever glow anim and null DropShadowEffect on AchievementBorder in AboutWindow.OnClosing\r\n- Peer(anvilwyrm): catch InvalidOperationException from ItemContainerGenerator during fast window close\r\n- Patrol(swiftblade): add WhereElementIsNotElementType to MatchTagLocationCommand FEC chain\r\n\r\n_(+ 20 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Channel fail-closed + branded dialog footer\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
