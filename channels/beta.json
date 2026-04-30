@@ -1,14 +1,14 @@
 {
-  "version": "2026.0430.1658",
-  "tag": "beta-2026.0430.1658",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.1658/ForgeSync.exe",
-  "sha256": "c5f72cf26f04b8c40029fc85db33c4bba1b6ec3704bde13a26d16a74c3ea5d12",
-  "size": 58304512,
-  "builtAtUtc": "2026-04-30T17:08:38Z",
+  "version": "2026.0430.1816",
+  "tag": "beta-2026.0430.1816",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.1816/ForgeSync.exe",
+  "sha256": "dd491d075c181c1762dc5fa15ed6167edfd14714bb23f252d21cae26d1b65f13",
+  "size": 58238976,
+  "builtAtUtc": "2026-04-30T18:28:02Z",
   "sourceShas": {
     "forgesync": "1db09e6",
-    "rtm.revit.plugin.forge": "8fd28c0",
+    "rtm.revit.plugin.forge": "14e5754",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Clear stale pending-update.json so wrong-channel offers can't survive\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Restore Spatial Forge / Stub Forge / Fitting Forge icons; remove IdeaSmith from ribbon\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
