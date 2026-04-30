@@ -1,14 +1,14 @@
 {
-  "version": "2026.0430.1816",
-  "tag": "beta-2026.0430.1816",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.1816/ForgeSync.exe",
-  "sha256": "dd491d075c181c1762dc5fa15ed6167edfd14714bb23f252d21cae26d1b65f13",
+  "version": "2026.0430.2105",
+  "tag": "beta-2026.0430.2105",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0430.2105/ForgeSync.exe",
+  "sha256": "8f34460798b2668aff7f3e6fe2e3495e19f8ac32a86f90664b52f5c66bc44a0d",
   "size": 58238976,
-  "builtAtUtc": "2026-04-30T18:28:02Z",
+  "builtAtUtc": "2026-04-30T21:15:10Z",
   "sourceShas": {
     "forgesync": "1db09e6",
-    "rtm.revit.plugin.forge": "14e5754",
+    "rtm.revit.plugin.forge": "9c2ed79",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Restore Spatial Forge / Stub Forge / Fitting Forge icons; remove IdeaSmith from ribbon\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Preload WCF facade for ADC v2027+ to fix Revit 2026 cloud sync\r\n\r\n_(+ 2 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
