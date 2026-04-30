@@ -1,14 +1,14 @@
 {
-  "version": "2026.0429.2058",
-  "tag": "stable-2026.0429.2058",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0429.2058/ForgeSync.exe",
-  "sha256": "a51b1d834a400b2b6c1886eb094599fc745ff4f3d8b9d1069ea4b549f1a958be",
-  "size": 57709568,
-  "builtAtUtc": "2026-04-29T21:05:59Z",
+  "version": "2026.0430.1220",
+  "tag": "stable-2026.0430.1220",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0430.1220/ForgeSync.exe",
+  "sha256": "bacc6fa3e58d16deaa86e295ed763616f8c45923f54ff0cb4e415e226518ea98",
+  "size": 57714176,
+  "builtAtUtc": "2026-04-30T12:29:08Z",
   "sourceShas": {
-    "forgesync": "55e8076",
+    "forgesync": "ccb533e",
     "rtm.revit.plugin.forge": "4b1f3e9",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Channel fail-closed + branded dialog footer\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
