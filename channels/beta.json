@@ -1,14 +1,14 @@
 {
-  "version": "2026.0501.1320",
-  "tag": "beta-2026.0501.1320",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0501.1320/ForgeSync.exe",
-  "sha256": "4ad3baeff2cb7e4ec684cec429b388064c397b4f6c43d4b986714902bf0a2787",
-  "size": 58234880,
-  "builtAtUtc": "2026-05-01T13:29:11Z",
+  "version": "2026.0501.1742",
+  "tag": "beta-2026.0501.1742",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0501.1742/ForgeSync.exe",
+  "sha256": "0b06d695828c61e2497d598bdfec0122906de2369e70a7b8f645eeaa0744f21c",
+  "size": 58299392,
+  "builtAtUtc": "2026-05-01T17:50:24Z",
   "sourceShas": {
-    "forgesync": "1db09e6",
+    "forgesync": "ec4b768",
     "rtm.revit.plugin.forge": "ea212dd",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Xcel Forge Updates\r\n\r\n_(+ 6 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Close-Revit gate + inline apply with progress + single-instance + filtered release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
