@@ -1,14 +1,14 @@
 {
-  "version": "2026.0501.1847",
-  "tag": "beta-2026.0501.1847",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0501.1847/ForgeSync.exe",
-  "sha256": "012aee0e820016a8861497400ae1b6c836e92fcf249188f9f4d13def5afb1829",
+  "version": "2026.0501.2005",
+  "tag": "beta-2026.0501.2005",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0501.2005/ForgeSync.exe",
+  "sha256": "b16b5c96e64a48038ef89c08bbf302f1d5c6f1ade49e76b875a0c118b24b22ee",
   "size": 58298368,
-  "builtAtUtc": "2026-05-01T18:56:04Z",
+  "builtAtUtc": "2026-05-01T20:14:03Z",
   "sourceShas": {
     "forgesync": "8368ecb",
-    "rtm.revit.plugin.forge": "ea212dd",
+    "rtm.revit.plugin.forge": "d8ec2c6",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Fix Entra PKCE localhost redirect\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 3 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
