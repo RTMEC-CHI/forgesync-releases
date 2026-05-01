@@ -1,14 +1,14 @@
 {
-  "version": "2026.0501.1339",
-  "tag": "stable-2026.0501.1339",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0501.1339/ForgeSync.exe",
-  "sha256": "2ca5b986b69e0ebb5bcbf87dc4b87b05586e7c78a36d1de4b3b08541cbd1d0c1",
-  "size": 58230784,
-  "builtAtUtc": "2026-05-01T13:48:09Z",
+  "version": "2026.0501.1731",
+  "tag": "stable-2026.0501.1731",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0501.1731/ForgeSync.exe",
+  "sha256": "25944aeceb71e5bc49173cc2bac9b6f0fddcbf0e577cdf12c6d1132f3c426933",
+  "size": 58303488,
+  "builtAtUtc": "2026-05-01T17:40:56Z",
   "sourceShas": {
-    "forgesync": "1db09e6",
+    "forgesync": "ec4b768",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Patrol(emberveil): apply StandardComboBoxStyle to TagTypeCombo and Links ComboBox in SpatialForgeWindow\r\n- Patrol(flameveil): guard ResetReadyPulse RepeatBehavior=Forever with ReduceMotion in SortForgeWindow\r\n- Forgemaster: fix indentation damage in ResetButtonStyle block\r\n- Forge(quickforge): pool pulse bar brushes — eliminates per-bar SolidColorBrush heap allocations\r\n- Patrol(noxshade): remove dead ApplyBatch2TickEffects() method from SumForgeWindow\r\n- Forge(questwright): created multi-phase raid boss system with 4 bosses and 4 achievements\r\n- Patrol(grimtally): KeyForgeSettings retry helpers now catch UnauthorizedAccessException alongside IOException\r\n- Patrol(slagfist): fix CS4014 unawaited async Dispatcher calls in KeyForge and BarForge windows\r\n- Forge(famicom): Add Advance Wars CO Power easter egg to KeynoteDiffDialog\r\n- Peer(trickster): unsubscribe PreviewKeyDown in KeynoteDiffDialog OnClosed\r\n- Patrol(compassforge): BarForge profile dialogs — seed InitialDirectory from remembered path and save on success\r\n- Forge(pixelwright): Add GridForge territory conquest mini-game to CadForge\r\n- Populate _gfNodeMap in SpawnNodeCell so GetNodeValue returns correct node numbers\r\n- Patrol(anvil): optimize RestoreSelection O(n²)→O(n) with HashSet in SortForgeWindow\r\n- Peer(noxwyrm): remove dead view store in RestoreSelection\r\n- Forgemaster(GridForge): remove unused reachedNode variable\r\n- Restore Spatial Forge / Stub Forge / Fitting Forge icons; remove IdeaSmith from ribbon\r\n- Elder(ashwyrm): normalize RestoreSelection indentation, no logic change\r\n- Patrol(juicesmith): add screen shake and combo streak juice to Power Surge game\r\n- Patrol(scribe): added XML doc to ForgeCheckResult class\r\n- Peer(trickster): remove dead _newBestScore field, suppress CS0414 warning\r\n- Elder(ashwyrm): add XML doc to ForgeDownloadResult class\r\n- Arcadesmith: add Void Drifter mini-game to ViewportPositionQuickSelectWindow\r\n- Peer(anvilwyrm): fix SpawnVdLetter — VdLetter never added to _vdLetters list\r\n- Patrol(moltenbeard): create CLOUD_BAPTISM milestone for first cloud model export\r\n- Peer(trickster): wire OnCloudExportMilestone event — Moltenbeard's cloud export chain was missing its ceremony hook\r\n- Forge(whispercharm): add LastFilterText memory to SortForge\r\n- Peer(prismsight): add AutomationProperties.Name to SortForge clear filter button for WCAG 2.1 AA\r\n- Preload WCF facade for ADC v2027+ to fix Revit 2026 cloud sync\r\n- Xcel Forge Updates\r\n\r\n_(+ 25 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Close-Revit gate + inline apply with progress + single-instance + filtered release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
