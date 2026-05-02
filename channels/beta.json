@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.0006",
-  "tag": "beta-2026.0502.0006",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0502.0006/ForgeSync.exe",
-  "sha256": "ee9d77524b361d2bcf3882d8d3ce863cb68ea88c4e8703f82d0885a9ce2afaf1",
-  "size": 58306560,
-  "builtAtUtc": "2026-05-02T00:16:00Z",
+  "version": "2026.0502.0352",
+  "tag": "beta-2026.0502.0352",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0502.0352/ForgeSync.exe",
+  "sha256": "946ed76c271ef47c6829ab868841ae2799a769551173d548fa398db2b56c9095",
+  "size": 58314752,
+  "builtAtUtc": "2026-05-02T04:00:23Z",
   "sourceShas": {
     "forgesync": "8368ecb",
-    "rtm.revit.plugin.forge": "7aca873",
+    "rtm.revit.plugin.forge": "682c869",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Replace GPU-intensive DropShadowEffect animations with safe foreground color flash in SumForgeWindow (#1147)\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Xcelforge updates\r\n\r\n_(+ 17 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
