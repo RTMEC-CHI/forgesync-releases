@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.1457",
-  "tag": "stable-2026.0502.1457",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1457/ForgeSync.exe",
-  "sha256": "380cc38e70b38c9cc7292f4628719714fb0ead360016ebee00d0ab5ad0a6a8bb",
-  "size": 65369600,
-  "builtAtUtc": "2026-05-02T15:07:17Z",
+  "version": "2026.0502.1535",
+  "tag": "stable-2026.0502.1535",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1535/ForgeSync.exe",
+  "sha256": "7a78e50932620f896e0e5ec66904a22d995dfa0fa80121321c4226c1796b9248",
+  "size": 52251136,
+  "builtAtUtc": "2026-05-02T15:45:31Z",
   "sourceShas": {
-    "forgesync": "9a73f4d",
+    "forgesync": "d9d20cb",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Rework SignIn action row with hero-scale lock + cleaner copy\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Optimize bundled installer size\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
