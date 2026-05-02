@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.1444",
-  "tag": "stable-2026.0502.1444",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1444/ForgeSync.exe",
-  "sha256": "eb391b98cb4436d795c4f38b2fd96cc7cbf8ed759dbc90ed1f6701b85aa458bc",
-  "size": 65368064,
-  "builtAtUtc": "2026-05-02T14:54:20Z",
+  "version": "2026.0502.1457",
+  "tag": "stable-2026.0502.1457",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1457/ForgeSync.exe",
+  "sha256": "380cc38e70b38c9cc7292f4628719714fb0ead360016ebee00d0ab5ad0a6a8bb",
+  "size": 65369600,
+  "builtAtUtc": "2026-05-02T15:07:17Z",
   "sourceShas": {
-    "forgesync": "b689690",
+    "forgesync": "9a73f4d",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Scale up SignIn logo + checkbox glyphs + update icon\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Rework SignIn action row with hero-scale lock + cleaner copy\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
