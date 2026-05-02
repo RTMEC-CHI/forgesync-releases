@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.1423",
-  "tag": "stable-2026.0502.1423",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1423/ForgeSync.exe",
-  "sha256": "9bb329708159bed57364506533a5d401c2e9aca57ebc8c9d14715d00aee69d2f",
+  "version": "2026.0502.1433",
+  "tag": "stable-2026.0502.1433",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1433/ForgeSync.exe",
+  "sha256": "e5252c8de834c767f2a21f39f1575b9232f5c79546f9ac7ec876a93c80d538ad",
   "size": 65372160,
-  "builtAtUtc": "2026-05-02T14:31:06Z",
+  "builtAtUtc": "2026-05-02T14:42:54Z",
   "sourceShas": {
-    "forgesync": "d897b78",
+    "forgesync": "7154c56",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Bump component-row icons + SignIn lock to readable sizes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Scale update + anvil hero icons to dominant sizes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
