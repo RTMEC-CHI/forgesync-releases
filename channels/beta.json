@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.0352",
-  "tag": "beta-2026.0502.0352",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0502.0352/ForgeSync.exe",
-  "sha256": "946ed76c271ef47c6829ab868841ae2799a769551173d548fa398db2b56c9095",
-  "size": 58314752,
-  "builtAtUtc": "2026-05-02T04:00:23Z",
+  "version": "2026.0502.0800",
+  "tag": "beta-2026.0502.0800",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0502.0800/ForgeSync.exe",
+  "sha256": "d1ac721295d2b5af3981ab411ffa091e8d2719eece977eee04aa8c2823a39f39",
+  "size": 65388544,
+  "builtAtUtc": "2026-05-02T08:08:34Z",
   "sourceShas": {
-    "forgesync": "8368ecb",
+    "forgesync": "322fdf2",
     "rtm.revit.plugin.forge": "682c869",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Xcelforge updates\r\n\r\n_(+ 17 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Polish wizards with PNG icons + bold headings + forge flair\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
