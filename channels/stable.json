@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.0643",
-  "tag": "stable-2026.0502.0643",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.0643/ForgeSync.exe",
-  "sha256": "bde334523b360b9ab9aad00357f649aeae212f7baaaa77047cbdff0b0711ca0b",
-  "size": 65372160,
-  "builtAtUtc": "2026-05-02T06:53:14Z",
+  "version": "2026.0502.0724",
+  "tag": "stable-2026.0502.0724",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.0724/ForgeSync.exe",
+  "sha256": "d6c140fae9d6dd84f4a7dda678e96ebfef775c0652e2b1151bc1a88613208440",
+  "size": 65368064,
+  "builtAtUtc": "2026-05-02T07:34:38Z",
   "sourceShas": {
-    "forgesync": "195dd78",
+    "forgesync": "322fdf2",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Polish wizards with PNG icons + bold headings + forge flair\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
