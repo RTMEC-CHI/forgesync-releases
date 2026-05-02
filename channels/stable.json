@@ -1,14 +1,14 @@
 {
-  "version": "2026.0501.1838",
-  "tag": "stable-2026.0501.1838",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0501.1838/ForgeSync.exe",
-  "sha256": "9f02c41da43a353c5178663418c005456aebaefb159e472cfe8f92daeb3d543d",
-  "size": 58298368,
-  "builtAtUtc": "2026-05-01T18:48:07Z",
+  "version": "2026.0502.0643",
+  "tag": "stable-2026.0502.0643",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.0643/ForgeSync.exe",
+  "sha256": "bde334523b360b9ab9aad00357f649aeae212f7baaaa77047cbdff0b0711ca0b",
+  "size": 65372160,
+  "builtAtUtc": "2026-05-02T06:53:14Z",
   "sourceShas": {
-    "forgesync": "8368ecb",
+    "forgesync": "195dd78",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Fix Entra PKCE localhost redirect\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Polish wizards with PNG icons + bold headings + forge flair\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
