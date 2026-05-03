@@ -1,14 +1,14 @@
 {
-  "version": "2026.0502.1535",
-  "tag": "stable-2026.0502.1535",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0502.1535/ForgeSync.exe",
-  "sha256": "7a78e50932620f896e0e5ec66904a22d995dfa0fa80121321c4226c1796b9248",
+  "version": "2026.0503.2236",
+  "tag": "stable-2026.0503.2236",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0503.2236/ForgeSync.exe",
+  "sha256": "792dee2051f754ea5c9801a049fe8a84798addcee1e5c3b8c1aff03507f79a63",
   "size": 52251136,
-  "builtAtUtc": "2026-05-02T15:45:31Z",
+  "builtAtUtc": "2026-05-03T22:46:38Z",
   "sourceShas": {
-    "forgesync": "d9d20cb",
+    "forgesync": "e06dfa2",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Optimize bundled installer size\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Extract PR titles from merge-commit bodies for release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
