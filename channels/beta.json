@@ -1,14 +1,14 @@
 {
-  "version": "2026.0503.2111",
-  "tag": "beta-2026.0503.2111",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0503.2111/ForgeSync.exe",
-  "sha256": "14718861843e30c8b6990aab0ae6170451082ffb63ea42d336710ac7e1a02f39",
+  "version": "2026.0503.2303",
+  "tag": "beta-2026.0503.2303",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0503.2303/ForgeSync.exe",
+  "sha256": "5bc7201046a576a8d23be5e5cc7f65270ea1040d3a93dc957645c53fe8d90878",
   "size": 52271616,
-  "builtAtUtc": "2026-05-03T21:23:02Z",
+  "builtAtUtc": "2026-05-03T23:16:05Z",
   "sourceShas": {
-    "forgesync": "d9d20cb",
+    "forgesync": "e06dfa2",
     "rtm.revit.plugin.forge": "6fc242a",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Merge PR #1225: Extract viewport geometry helpers to shared store\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Extract PR titles from merge-commit bodies for release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
