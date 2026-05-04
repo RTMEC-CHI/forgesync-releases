@@ -1,14 +1,14 @@
 {
-  "version": "2026.0503.2303",
-  "tag": "beta-2026.0503.2303",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0503.2303/ForgeSync.exe",
-  "sha256": "5bc7201046a576a8d23be5e5cc7f65270ea1040d3a93dc957645c53fe8d90878",
-  "size": 52271616,
-  "builtAtUtc": "2026-05-03T23:16:05Z",
+  "version": "2026.0504.0410",
+  "tag": "beta-2026.0504.0410",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.0410/ForgeSync.exe",
+  "sha256": "2d357827f268c145d35b7615878f7aee85d107a63dfda240ca6a17cb5ebff3a6",
+  "size": 52283904,
+  "builtAtUtc": "2026-05-04T04:20:37Z",
   "sourceShas": {
     "forgesync": "e06dfa2",
-    "rtm.revit.plugin.forge": "6fc242a",
+    "rtm.revit.plugin.forge": "29a8958",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Extract PR titles from merge-commit bodies for release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- 🌙 Quenched the eternal flame — DropShadowEffect pulses now finite\r\n- 🌙 Woke the dead code — elixirs now actually work in dungeon runs\r\n- Contextual idle tips — tool-aware suggestion engine (#1244)\r\n- XcelForge interactive guide overlay — 4-step onboarding walkthrough (#1242)\r\n- Added smart suggestion chips to SortForge's no-results state\r\n- Added Batch Tag Window behavior\r\n- 🌙 Merged — CheckMilestoneConfetti: SortForge now celebrates your sorts (#1235)\r\n- 🌙 Merged — ReduceMotion guard + stored delegate for mania timer (#1240)\r\n- 🌙 Merged — EnableEasterEggs guards + stored delegate for PacketSniffer (#1241)\r\n- 🌙 Merged — Eliminated LINQ allocations in BarForge emote generators (#1236)\r\n- 🌙 Merged — FontAwesomeSolid pin glyph with proper fallback (#1238)\r\n- 🌙 Merged — file_path filter for query_memory tool (#1247)\r\n\r\n_(+ 5 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
