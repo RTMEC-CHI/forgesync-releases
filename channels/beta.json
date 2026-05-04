@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.0410",
-  "tag": "beta-2026.0504.0410",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.0410/ForgeSync.exe",
-  "sha256": "2d357827f268c145d35b7615878f7aee85d107a63dfda240ca6a17cb5ebff3a6",
+  "version": "2026.0504.0724",
+  "tag": "beta-2026.0504.0724",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.0724/ForgeSync.exe",
+  "sha256": "d324c16749f94ba2ed7a4ad7142252014b3aea92da0dadf0ab8bdadb2c63ffdb",
   "size": 52283904,
-  "builtAtUtc": "2026-05-04T04:20:37Z",
+  "builtAtUtc": "2026-05-04T07:37:50Z",
   "sourceShas": {
     "forgesync": "e06dfa2",
-    "rtm.revit.plugin.forge": "29a8958",
+    "rtm.revit.plugin.forge": "cd7ebee",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- 🌙 Quenched the eternal flame — DropShadowEffect pulses now finite\r\n- 🌙 Woke the dead code — elixirs now actually work in dungeon runs\r\n- Contextual idle tips — tool-aware suggestion engine (#1244)\r\n- XcelForge interactive guide overlay — 4-step onboarding walkthrough (#1242)\r\n- Added smart suggestion chips to SortForge's no-results state\r\n- Added Batch Tag Window behavior\r\n- 🌙 Merged — CheckMilestoneConfetti: SortForge now celebrates your sorts (#1235)\r\n- 🌙 Merged — ReduceMotion guard + stored delegate for mania timer (#1240)\r\n- 🌙 Merged — EnableEasterEggs guards + stored delegate for PacketSniffer (#1241)\r\n- 🌙 Merged — Eliminated LINQ allocations in BarForge emote generators (#1236)\r\n- 🌙 Merged — FontAwesomeSolid pin glyph with proper fallback (#1238)\r\n- 🌙 Merged — file_path filter for query_memory tool (#1247)\r\n\r\n_(+ 5 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Restored missing npm dependencies in\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
