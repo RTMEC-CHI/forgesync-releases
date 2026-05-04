@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.0724",
-  "tag": "beta-2026.0504.0724",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.0724/ForgeSync.exe",
-  "sha256": "d324c16749f94ba2ed7a4ad7142252014b3aea92da0dadf0ab8bdadb2c63ffdb",
-  "size": 52283904,
-  "builtAtUtc": "2026-05-04T07:37:50Z",
+  "version": "2026.0504.1402",
+  "tag": "beta-2026.0504.1402",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1402/ForgeSync.exe",
+  "sha256": "81d411ee9989a98abb1b565bfbec5a76de78593ca9211184c16e308a490baec0",
+  "size": 52292096,
+  "builtAtUtc": "2026-05-04T14:15:02Z",
   "sourceShas": {
-    "forgesync": "e06dfa2",
-    "rtm.revit.plugin.forge": "cd7ebee",
+    "forgesync": "82306b6",
+    "rtm.revit.plugin.forge": "29c9263",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Restored missing npm dependencies in\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Allow release-assets.githubusercontent.com in host allowlist\r\n\r\n### Forge Tools improvements\r\n\r\n- 🌙 Merged — OnRecipeDiscovered event + rarity-scaled recipe reveal ceremony (#1246)\r\n- Added sumsmith creator\r\n- Added SessionFlowCelebrationEngine\r\n- Resolve IArcadeGame interface ambiguity causing CS0311\r\n\r\n_(+ 5 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
