@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.1804",
-  "tag": "beta-2026.0504.1804",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1804/ForgeSync.exe",
-  "sha256": "020fed3430fe22ec6f315fe5c5e87c2a2e824a5b2689ca13106d6cfcdd38c19b",
+  "version": "2026.0504.2020",
+  "tag": "beta-2026.0504.2020",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.2020/ForgeSync.exe",
+  "sha256": "94b74c509be51070562cf42f91a50a929cc1b4f4d1064a00511330b2a7e25704",
   "size": 52292096,
-  "builtAtUtc": "2026-05-04T18:18:15Z",
+  "builtAtUtc": "2026-05-04T20:30:59Z",
   "sourceShas": {
     "forgesync": "82306b6",
-    "rtm.revit.plugin.forge": "73620eb",
+    "rtm.revit.plugin.forge": "56f72c1",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Subscribe to Idling on the API thread\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Harden view collection against corrupted views\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
