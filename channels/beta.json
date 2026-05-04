@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.1513",
-  "tag": "beta-2026.0504.1513",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1513/ForgeSync.exe",
-  "sha256": "7f1559fde9e78aeef90f8715afdf99a454093a5c4e507130e244e38d30a7b83c",
+  "version": "2026.0504.1620",
+  "tag": "beta-2026.0504.1620",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1620/ForgeSync.exe",
+  "sha256": "5759658d373afbf91a2cffcb88b64d46f5d4a295c25d9d6856d365761f9af35d",
   "size": 52292096,
-  "builtAtUtc": "2026-05-04T15:26:06Z",
+  "builtAtUtc": "2026-05-04T16:31:59Z",
   "sourceShas": {
     "forgesync": "82306b6",
-    "rtm.revit.plugin.forge": "ceb8ea6",
+    "rtm.revit.plugin.forge": "389c488",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Repair MayThe4th low-contrast text and palette inconsistencies\r\n- Diag(forge-sync): startup-check breadcrumbs and decoupled toast snooze\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Refresh holiday palette on every full button rebuild\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
