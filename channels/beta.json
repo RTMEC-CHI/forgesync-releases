@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.1402",
-  "tag": "beta-2026.0504.1402",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1402/ForgeSync.exe",
-  "sha256": "81d411ee9989a98abb1b565bfbec5a76de78593ca9211184c16e308a490baec0",
+  "version": "2026.0504.1513",
+  "tag": "beta-2026.0504.1513",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.1513/ForgeSync.exe",
+  "sha256": "7f1559fde9e78aeef90f8715afdf99a454093a5c4e507130e244e38d30a7b83c",
   "size": 52292096,
-  "builtAtUtc": "2026-05-04T14:15:02Z",
+  "builtAtUtc": "2026-05-04T15:26:06Z",
   "sourceShas": {
     "forgesync": "82306b6",
-    "rtm.revit.plugin.forge": "29c9263",
+    "rtm.revit.plugin.forge": "ceb8ea6",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Allow release-assets.githubusercontent.com in host allowlist\r\n\r\n### Forge Tools improvements\r\n\r\n- 🌙 Merged — OnRecipeDiscovered event + rarity-scaled recipe reveal ceremony (#1246)\r\n- Added sumsmith creator\r\n- Added SessionFlowCelebrationEngine\r\n- Resolve IArcadeGame interface ambiguity causing CS0311\r\n\r\n_(+ 5 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Repair MayThe4th low-contrast text and palette inconsistencies\r\n- Diag(forge-sync): startup-check breadcrumbs and decoupled toast snooze\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
