@@ -1,14 +1,14 @@
 {
-  "version": "2026.0503.2236",
-  "tag": "stable-2026.0503.2236",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0503.2236/ForgeSync.exe",
-  "sha256": "792dee2051f754ea5c9801a049fe8a84798addcee1e5c3b8c1aff03507f79a63",
+  "version": "2026.0504.1220",
+  "tag": "stable-2026.0504.1220",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0504.1220/ForgeSync.exe",
+  "sha256": "f881b23ce4fc50d529081920927b05c9f0e16736bd84b61e546de921b380b4d4",
   "size": 52251136,
-  "builtAtUtc": "2026-05-03T22:46:38Z",
+  "builtAtUtc": "2026-05-04T12:31:09Z",
   "sourceShas": {
-    "forgesync": "e06dfa2",
+    "forgesync": "82306b6",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Extract PR titles from merge-commit bodies for release notes\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Allow release-assets.githubusercontent.com in host allowlist\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
