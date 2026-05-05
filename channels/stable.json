@@ -1,14 +1,14 @@
 {
-  "version": "2026.0505.1718",
-  "tag": "stable-2026.0505.1718",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0505.1718/ForgeSync.exe",
-  "sha256": "a68e01e5c226fe982545422baf4fdbadfc5b1ab777949894380787774cbf4642",
+  "version": "2026.0505.2004",
+  "tag": "stable-2026.0505.2004",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0505.2004/ForgeSync.exe",
+  "sha256": "3871744d3bff09519ff6c30e20a97d5ef035877182a69994fb41e0968a7fe501",
   "size": 52251136,
-  "builtAtUtc": "2026-05-05T17:29:04Z",
+  "builtAtUtc": "2026-05-05T20:19:37Z",
   "sourceShas": {
-    "forgesync": "5ba0177",
+    "forgesync": "e3b0539",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Repair publish-release.yml YAML structure\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Cut both crons to every 4 hours, cache build-forge-sync\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
