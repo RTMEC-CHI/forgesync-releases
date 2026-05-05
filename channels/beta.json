@@ -1,14 +1,14 @@
 {
-  "version": "2026.0504.2020",
-  "tag": "beta-2026.0504.2020",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0504.2020/ForgeSync.exe",
-  "sha256": "94b74c509be51070562cf42f91a50a929cc1b4f4d1064a00511330b2a7e25704",
+  "version": "2026.0505.1743",
+  "tag": "beta-2026.0505.1743",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0505.1743/ForgeSync.exe",
+  "sha256": "3dffd50d23e3bef97da46327dd48a1db3b246e7225ac2d376c977ec9a4b27001",
   "size": 52292096,
-  "builtAtUtc": "2026-05-04T20:30:59Z",
+  "builtAtUtc": "2026-05-05T17:54:06Z",
   "sourceShas": {
-    "forgesync": "82306b6",
+    "forgesync": "5ba0177",
     "rtm.revit.plugin.forge": "56f72c1",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Harden view collection against corrupted views\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Cut Actions minute consumption\r\n- Repair publish-release.yml YAML structure\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
