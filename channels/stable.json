@@ -1,14 +1,14 @@
 {
-  "version": "2026.0506.0030",
-  "tag": "stable-2026.0506.0030",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0506.0030/ForgeSync.exe",
-  "sha256": "7816034a1df9aa0f476b76489eadbe4cc64f2fef894d11fc6b9dcf33ba85cf13",
-  "size": 53245440,
-  "builtAtUtc": "2026-05-06T00:35:26Z",
+  "version": "2026.0506.0059",
+  "tag": "stable-2026.0506.0059",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0506.0059/ForgeSync.exe",
+  "sha256": "59435258cac3612af160657330eb9ed8f1ffddfe5f291347b3acd02015b918ac",
+  "size": 53286912,
+  "builtAtUtc": "2026-05-06T01:05:26Z",
   "sourceShas": {
-    "forgesync": "92d0554",
+    "forgesync": "2da23b3",
     "rtm.revit.plugin.forge": "1c69fbf",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Retry Install path that force-closes Revit before retrying\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
