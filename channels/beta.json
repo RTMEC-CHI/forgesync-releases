@@ -1,14 +1,14 @@
 {
-  "version": "2026.0506.0436",
-  "tag": "beta-2026.0506.0436",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0506.0436/ForgeSync.exe",
-  "sha256": "d574025ae50f6d551cbf3c2f36736bbbe4208a3c3dd81ce1c320d2e064eb9291",
-  "size": 53327872,
-  "builtAtUtc": "2026-05-06T04:42:09Z",
+  "version": "2026.0506.1529",
+  "tag": "beta-2026.0506.1529",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0506.1529/ForgeSync.exe",
+  "sha256": "db42ca9bbe5384e69da5778d4682923ed0a7f225be1ce86df595908f00e8fa63",
+  "size": 53389312,
+  "builtAtUtc": "2026-05-06T15:34:19Z",
   "sourceShas": {
     "forgesync": "2da23b3",
-    "rtm.revit.plugin.forge": "56f72c1",
+    "rtm.revit.plugin.forge": "b1aec05",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Cut both crons to every 4 hours, cache build-forge-sync\r\n- Load MSVC env via temp .bat to avoid cmd nested-quote bug\r\n- Probe each VS install for vcvarsall.bat instead of trusting vswhere\r\n- Replace dtolnay/rust-toolchain with direct rustup via pwsh\r\n- Probe multiple rustup locations + dump diagnostics on miss\r\n- Self-install rustup if not found locally\r\n- Diag: dump bin/artifacts subdirectories when stage script can't find net48 output\r\n- Suppress Platform=x64 from vcvars env to fix dotnet output path\r\n- Retry Install path that force-closes Revit before retrying\r\n\r\n_(+ 4 internal/noise commit(s) hidden)_\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Added getdispatchrecommendations MCP tool that returns ranked agent (#1260)\r\n- Added Connected TitleAchieved mood trigger to PersonalityEngine via (#1276)\r\n- Added 1-second minimum threshold to prevent CPM explosion on session start (#1277)\r\n- Fixed Pushed category filtering from managed Where(ApiCompat.Id) to native (#1283)\r\n- Added ForgeWizard (#1287)\r\n- Added sumsmith creator (#1278)\r\n- Replace 3 hardcoded hex/White colors with DynamicResource bindings in ForgeToast and KeyForgeWindow (#1288)\r\n- Fixed closes the GlobalGlow ReduceMotion leak in both ViewportPosition (#1291)\r\n- Fixed PredictiveDefaultsBinder (#1292)\r\n- Add RangeSelectorWindow scrollbar palette to ThemeManager runtime injection (#1293)\r\n- Added Resting to PillMoodState enum (#1296)\r\n- Re-enable UseWPF — required by PredictiveDefaultsBinder\r\n- Added NebulaDrift ambient animation to status pill idle state (#1298)\r\n- Improved RotateBackups() in KeynoteFileService (#1308)\r\n- Fixed Sheet Order Editor Window.Animal Crossing (#1309)\r\n- Improved Pinball Wizard mini-game with arcade juice (#1314)\r\n- Fixed Store as instance field achievementToastTimer and clean up in OnClosing() (#1306)\r\n- Added Sort Forge Settings behavior (#1319)\r\n- Added ViewportPositionQuickSelect guide overlay system — a 3-step (#1335)\r\n- Added 6 missing files (PredictiveDefaults (#1343)\r\n- Users discover what's new through release notes — 14 shipped improvements (#1341)\r\n- Replace nested Transaction with SubTransaction in DuplicateSheet (#1359)\r\n- Escape all six cmd.exe metacharacters in SafeProcessArgs.ShellArg (#1362)\r\n\r\n_(+ 37 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
