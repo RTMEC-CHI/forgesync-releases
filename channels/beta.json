@@ -1,14 +1,14 @@
 {
-  "version": "2026.0506.1744",
-  "tag": "beta-2026.0506.1744",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0506.1744/ForgeSync.exe",
-  "sha256": "d58a85189df26040b09182dffed1456db88dce9c678d75d5465bae63a9b74d48",
+  "version": "2026.0506.1950",
+  "tag": "beta-2026.0506.1950",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0506.1950/ForgeSync.exe",
+  "sha256": "ddfe3547abab4817ee163f018f7ca9fc2b24372edc67802125ba4b84e1f70fb8",
   "size": 53393408,
-  "builtAtUtc": "2026-05-06T17:49:11Z",
+  "builtAtUtc": "2026-05-06T19:57:02Z",
   "sourceShas": {
     "forgesync": "2da23b3",
-    "rtm.revit.plugin.forge": "d279ce1",
+    "rtm.revit.plugin.forge": "6fcce58",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Fixed ARCHITECTURE behavior (#1349)\r\n- Restored MCP server config and engine instruction parity (#1353)\r\n- Compute consecutive clean patrol streak by walking records, not capped COUNT with LIMIT 3 (#1356)\r\n- Fixed Dual-Target Compatibility behavior (#1371)\r\n- Added WhereElementIsNotElementType() quick filter to 12 collectors across 7 (#1378)\r\n\r\n_(+ 3 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Drop async void Window_Loaded + Task.Run; add Dispatcher.UnhandledException diagnostic\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
