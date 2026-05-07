@@ -1,14 +1,14 @@
 {
-  "version": "2026.0506.1950",
-  "tag": "beta-2026.0506.1950",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0506.1950/ForgeSync.exe",
-  "sha256": "ddfe3547abab4817ee163f018f7ca9fc2b24372edc67802125ba4b84e1f70fb8",
-  "size": 53393408,
-  "builtAtUtc": "2026-05-06T19:57:02Z",
+  "version": "2026.0507.1421",
+  "tag": "beta-2026.0507.1421",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0507.1421/ForgeSync.exe",
+  "sha256": "1fab2ab05dbe01e24c925af85e95f7c6b9cf9ffc7f729749a5e63c67df110870",
+  "size": 53401600,
+  "builtAtUtc": "2026-05-07T14:27:37Z",
   "sourceShas": {
     "forgesync": "2da23b3",
-    "rtm.revit.plugin.forge": "6fcce58",
+    "rtm.revit.plugin.forge": "483e24a",
     "rtm.Revit.Plugin": "5f74eca"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Drop async void Window_Loaded + Task.Run; add Dispatcher.UnhandledException diagnostic\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Added RTMTools (#1385)\r\n- Renamed gameWon to isGameWon in RTMTools (#1386)\r\n- Fixed Dual-Target Compatibility behavior (#1387)\r\n- Added public read API to SessionFlowCelebrationEngine (#1393)\r\n- Added UnsubscribeAllSheetModels() called in both OnClosed() (cleanup on (#1399)\r\n- Fixed RTMTools.Commands behavior (#1400)\r\n- Added GameMetadataAttribute (#1401)\r\n- Fixed SystemTypePickerWindow (#1402)\r\n- Added LuxeAvatarInitialsConverter, LuxeAvatarPresenceColorConverter (#1405)\r\n- Added AutomationProperties (#1408)\r\n- Fixed RTMRunHelper (#1410)\r\n- The CleanupBeatTimer() method only cleans up beatResetTimer, leaving (#1411)\r\n- Fixed Icon-only buttons are invisible to screen readers without an explicit (#1412)\r\n\r\n_(+ 11 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
