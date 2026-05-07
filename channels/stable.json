@@ -1,14 +1,14 @@
 {
-  "version": "2026.0506.0059",
-  "tag": "stable-2026.0506.0059",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0506.0059/ForgeSync.exe",
-  "sha256": "59435258cac3612af160657330eb9ed8f1ffddfe5f291347b3acd02015b918ac",
-  "size": 53286912,
-  "builtAtUtc": "2026-05-06T01:05:26Z",
+  "version": "2026.0507.2313",
+  "tag": "stable-2026.0507.2313",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0507.2313/ForgeSync.exe",
+  "sha256": "813879c262983ffe3cf06003ec224a6b69c959a40179bb7b02bf1e1781ba4200",
+  "size": 69163008,
+  "builtAtUtc": "2026-05-07T23:20:19Z",
   "sourceShas": {
-    "forgesync": "2da23b3",
-    "rtm.revit.plugin.forge": "1c69fbf",
-    "rtm.Revit.Plugin": "5f74eca"
+    "forgesync": "c5b280f",
+    "rtm.revit.plugin.forge": "1226a02",
+    "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Retry Install path that force-closes Revit before retrying\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Add Revit 2027 / net10.0-windows support (#1)\r\n- Skip plugin Nuke GitRelease and build net10 forge tools in CI\r\n\r\n### Forge Tools improvements\r\n\r\n- Add Revit 2027 build support\r\n\r\n### Plugin improvements\r\n\r\n- Remove studpacks command; update import families\r\n- Add UpdateServices.Update() to OnStartup method\r\n- Add PT tributary calc & truss coping commands to ribbon\r\n- Auto-publish beta source releases from builder branch\r\n- Document builder-driven beta source publishing\r\n- Fix builder beta branch compile for truss command\r\n- Fix builder beta release automation\r\n- Schedule suite updater after Revit shutdown\r\n- Implement multi-version Revit plugin architecture with feedback, export, and web UI management modules\r\n- Add Auto Dimension tool, grid/floor edge, detail import\r\n- Builder\r\n- Add Revit 2027 support\r\n- Merge master into main\r\n- Use 2026 RevitMCPSDK for 2027 builds\r\n- Handle Revit 2027 curve intersection API\r\n\r\n_(+ 2 internal/noise commit(s) hidden)_\r\n\r\n\r\n"
 }
