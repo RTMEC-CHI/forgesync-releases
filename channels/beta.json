@@ -1,14 +1,14 @@
 {
-  "version": "2026.0507.2355",
-  "tag": "beta-2026.0507.2355",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0507.2355/ForgeSync.exe",
-  "sha256": "deda099d16d17459fc6b687dc6fb8fde627e0b738ed31a572ac6d9e8ad03f661",
+  "version": "2026.0508.0559",
+  "tag": "beta-2026.0508.0559",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.0559/ForgeSync.exe",
+  "sha256": "ddd664fbbf689fd625e20c7ad52d4b82109598a1866c29f07d415fb90b4245a5",
   "size": 69273600,
-  "builtAtUtc": "2026-05-08T00:01:07Z",
+  "builtAtUtc": "2026-05-08T06:04:59Z",
   "sourceShas": {
     "forgesync": "c5b280f",
-    "rtm.revit.plugin.forge": "1c2653c",
+    "rtm.revit.plugin.forge": "47bac3e",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Add Revit 2027 / net10.0-windows support (#1)\r\n- Skip plugin Nuke GitRelease and build net10 forge tools in CI\r\n\r\n### Forge Tools improvements\r\n\r\n- V1.0.36\r\n- ForgeToast countdown bar appeared frozen — SignalLine masked drain\r\n- Add Revit 2027 build support\r\n- Merge origin/main into dev-patrol — bring in Revit 2027 build support\r\n\r\n### Plugin improvements\r\n\r\n- Remove studpacks command; update import families\r\n- Add UpdateServices.Update() to OnStartup method\r\n- Add PT tributary calc & truss coping commands to ribbon\r\n- Auto-publish beta source releases from builder branch\r\n- Document builder-driven beta source publishing\r\n- Fix builder beta branch compile for truss command\r\n- Fix builder beta release automation\r\n- Schedule suite updater after Revit shutdown\r\n- Implement multi-version Revit plugin architecture with feedback, export, and web UI management modules\r\n- Add Auto Dimension tool, grid/floor edge, detail import\r\n- Builder\r\n- Add Revit 2027 support\r\n- Merge master into main\r\n- Use 2026 RevitMCPSDK for 2027 builds\r\n- Handle Revit 2027 curve intersection API\r\n\r\n_(+ 2 internal/noise commit(s) hidden)_\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Resolve build error (attempt 1)\r\n- Resolve build error (attempt 2)\r\n- Resolve build error (attempt 2)\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
