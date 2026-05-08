@@ -1,14 +1,14 @@
 {
-  "version": "2026.0508.1352",
-  "tag": "beta-2026.0508.1352",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1352/ForgeSync.exe",
-  "sha256": "1d2ee3fbc6edfba7d18b695acebabf65eb04197cdcda8782d5a22c089b69455b",
+  "version": "2026.0508.1400",
+  "tag": "beta-2026.0508.1400",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1400/ForgeSync.exe",
+  "sha256": "d759798077ec02128596cd4865d7d2366db9a88155db86d876ae007a2cdedfdd",
   "size": 74741760,
-  "builtAtUtc": "2026-05-08T13:58:27Z",
+  "builtAtUtc": "2026-05-08T14:05:49Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "2838800",
+    "rtm.revit.plugin.forge": "1a4fe29",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Stage net10.0-windows in rtmtools payload\r\n\r\n### Forge Tools improvements\r\n\r\n- Added AutomationProperties (#1448)\r\n- The Artisan's Eye (#1446)\r\n- Removed Schedule Tools behavior (#1441)\r\n- Fixed glimmerscale creator (#1440)\r\n- Fixed slagbeard creator (#1431)\r\n- Fixed Build & Dependencies behavior (#1427)\r\n- Fixed Update System behavior (#1429)\r\n- The errors are missing restore — need to run with restore first (#1426)\r\n- The Unreleased section was a dense chronicle of 14 shipped changes sitting (#1421)\r\n- Improved OnClosing in ForgeFloatingStatus (#1414)\r\n- Sparkweave-creator: replace directional slide with glow pulse on step change\r\n- Added Sum Forge Window. (#1418)\r\n- Added IsTileLocked callback to ManiaGameContext, wired it through SumForgeWindow (#1424)\r\n- Fixed Arcade Manager behavior (#1419)\r\n- Fixed Key Forge View Model (#1430)\r\n- Fixed Connected PersonalityEngine (#1434)\r\n- Added sparkweave creator (#1449)\r\n\r\n_(+ 14 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
