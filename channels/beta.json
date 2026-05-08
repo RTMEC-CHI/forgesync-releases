@@ -1,14 +1,14 @@
 {
-  "version": "2026.0508.1400",
-  "tag": "beta-2026.0508.1400",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1400/ForgeSync.exe",
-  "sha256": "d759798077ec02128596cd4865d7d2366db9a88155db86d876ae007a2cdedfdd",
+  "version": "2026.0508.1625",
+  "tag": "beta-2026.0508.1625",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1625/ForgeSync.exe",
+  "sha256": "fcdff4b3176d3c49fa20f2b5a0084226efd697bbac7b31d14e1fe9c808ba52bb",
   "size": 74741760,
-  "builtAtUtc": "2026-05-08T14:05:49Z",
+  "builtAtUtc": "2026-05-08T16:30:10Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "1a4fe29",
+    "rtm.revit.plugin.forge": "d3b450f",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Downshift vendored Revit refs to 2021 to fix Revit <=2023 crash\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
