@@ -1,14 +1,14 @@
 {
-  "version": "2026.0507.2313",
-  "tag": "stable-2026.0507.2313",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0507.2313/ForgeSync.exe",
-  "sha256": "813879c262983ffe3cf06003ec224a6b69c959a40179bb7b02bf1e1781ba4200",
-  "size": 69163008,
-  "builtAtUtc": "2026-05-07T23:20:19Z",
+  "version": "2026.0508.1257",
+  "tag": "stable-2026.0508.1257",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0508.1257/ForgeSync.exe",
+  "sha256": "76f04290a00c6d48ef34ddd2925ec09000a2f427b094bfe5180b05747a9a69a3",
+  "size": 74618880,
+  "builtAtUtc": "2026-05-08T13:02:47Z",
   "sourceShas": {
-    "forgesync": "c5b280f",
+    "forgesync": "7784f50",
     "rtm.revit.plugin.forge": "1226a02",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Add Revit 2027 / net10.0-windows support (#1)\r\n- Skip plugin Nuke GitRelease and build net10 forge tools in CI\r\n\r\n### Forge Tools improvements\r\n\r\n- Add Revit 2027 build support\r\n\r\n### Plugin improvements\r\n\r\n- Remove studpacks command; update import families\r\n- Add UpdateServices.Update() to OnStartup method\r\n- Add PT tributary calc & truss coping commands to ribbon\r\n- Auto-publish beta source releases from builder branch\r\n- Document builder-driven beta source publishing\r\n- Fix builder beta branch compile for truss command\r\n- Fix builder beta release automation\r\n- Schedule suite updater after Revit shutdown\r\n- Implement multi-version Revit plugin architecture with feedback, export, and web UI management modules\r\n- Add Auto Dimension tool, grid/floor edge, detail import\r\n- Builder\r\n- Add Revit 2027 support\r\n- Merge master into main\r\n- Use 2026 RevitMCPSDK for 2027 builds\r\n- Handle Revit 2027 curve intersection API\r\n\r\n_(+ 2 internal/noise commit(s) hidden)_\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Stage net10.0-windows in rtmtools payload\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
