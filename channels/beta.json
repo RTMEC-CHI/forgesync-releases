@@ -1,14 +1,14 @@
 {
-  "version": "2026.0508.1625",
-  "tag": "beta-2026.0508.1625",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1625/ForgeSync.exe",
-  "sha256": "fcdff4b3176d3c49fa20f2b5a0084226efd697bbac7b31d14e1fe9c808ba52bb",
-  "size": 74741760,
-  "builtAtUtc": "2026-05-08T16:30:10Z",
+  "version": "2026.0508.1743",
+  "tag": "beta-2026.0508.1743",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0508.1743/ForgeSync.exe",
+  "sha256": "d2efdc8c2dc4af16b8c87599b7fdec621bb0f2f458184fd27cea4999e6086ada",
+  "size": 74745856,
+  "builtAtUtc": "2026-05-08T17:49:23Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "d3b450f",
+    "rtm.revit.plugin.forge": "219b980",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Downshift vendored Revit refs to 2021 to fix Revit <=2023 crash\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Move ceremony to ArcadeProfileWindow, restore BarForge toast\r\n- Contain TargetParameterCountException in dispatcher unhandled handler\r\n- Use DispatcherTimer for cascade entry delay (was BeginInvoke arity bug)\r\n- Merge forge/treasureveil-2026-05-08-01-12-44 into dev-patrol\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
