@@ -1,14 +1,14 @@
 {
-  "version": "2026.0507.1421",
-  "tag": "beta-2026.0507.1421",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0507.1421/ForgeSync.exe",
-  "sha256": "1fab2ab05dbe01e24c925af85e95f7c6b9cf9ffc7f729749a5e63c67df110870",
-  "size": 53401600,
-  "builtAtUtc": "2026-05-07T14:27:37Z",
+  "version": "2026.0507.2355",
+  "tag": "beta-2026.0507.2355",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0507.2355/ForgeSync.exe",
+  "sha256": "deda099d16d17459fc6b687dc6fb8fde627e0b738ed31a572ac6d9e8ad03f661",
+  "size": 69273600,
+  "builtAtUtc": "2026-05-08T00:01:07Z",
   "sourceShas": {
-    "forgesync": "2da23b3",
-    "rtm.revit.plugin.forge": "483e24a",
-    "rtm.Revit.Plugin": "5f74eca"
+    "forgesync": "c5b280f",
+    "rtm.revit.plugin.forge": "1c2653c",
+    "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Added RTMTools (#1385)\r\n- Renamed gameWon to isGameWon in RTMTools (#1386)\r\n- Fixed Dual-Target Compatibility behavior (#1387)\r\n- Added public read API to SessionFlowCelebrationEngine (#1393)\r\n- Added UnsubscribeAllSheetModels() called in both OnClosed() (cleanup on (#1399)\r\n- Fixed RTMTools.Commands behavior (#1400)\r\n- Added GameMetadataAttribute (#1401)\r\n- Fixed SystemTypePickerWindow (#1402)\r\n- Added LuxeAvatarInitialsConverter, LuxeAvatarPresenceColorConverter (#1405)\r\n- Added AutomationProperties (#1408)\r\n- Fixed RTMRunHelper (#1410)\r\n- The CleanupBeatTimer() method only cleans up beatResetTimer, leaving (#1411)\r\n- Fixed Icon-only buttons are invisible to screen readers without an explicit (#1412)\r\n\r\n_(+ 11 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Add Revit 2027 / net10.0-windows support (#1)\r\n- Skip plugin Nuke GitRelease and build net10 forge tools in CI\r\n\r\n### Forge Tools improvements\r\n\r\n- V1.0.36\r\n- ForgeToast countdown bar appeared frozen — SignalLine masked drain\r\n- Add Revit 2027 build support\r\n- Merge origin/main into dev-patrol — bring in Revit 2027 build support\r\n\r\n### Plugin improvements\r\n\r\n- Remove studpacks command; update import families\r\n- Add UpdateServices.Update() to OnStartup method\r\n- Add PT tributary calc & truss coping commands to ribbon\r\n- Auto-publish beta source releases from builder branch\r\n- Document builder-driven beta source publishing\r\n- Fix builder beta branch compile for truss command\r\n- Fix builder beta release automation\r\n- Schedule suite updater after Revit shutdown\r\n- Implement multi-version Revit plugin architecture with feedback, export, and web UI management modules\r\n- Add Auto Dimension tool, grid/floor edge, detail import\r\n- Builder\r\n- Add Revit 2027 support\r\n- Merge master into main\r\n- Use 2026 RevitMCPSDK for 2027 builds\r\n- Handle Revit 2027 curve intersection API\r\n\r\n_(+ 2 internal/noise commit(s) hidden)_\r\n\r\n\r\n"
 }
