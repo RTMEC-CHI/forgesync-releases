@@ -1,14 +1,14 @@
 {
-  "version": "2026.0509.0425",
-  "tag": "beta-2026.0509.0425",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0509.0425/ForgeSync.exe",
-  "sha256": "6f7ce134f935b64c31884f90c4f5dda0602a70f062affd6b5425fa8a96a992dc",
+  "version": "2026.0510.0638",
+  "tag": "beta-2026.0510.0638",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0510.0638/ForgeSync.exe",
+  "sha256": "239718be5f05d33e64a48f84a2e4449ece6436178aae10b489dfeff2d7bf359b",
   "size": 74745856,
-  "builtAtUtc": "2026-05-09T04:30:51Z",
+  "builtAtUtc": "2026-05-10T06:44:55Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "7775271",
+    "rtm.revit.plugin.forge": "ae04d81",
     "rtm.Revit.Plugin": "8aa15e6"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Resolve build error (attempt 3)\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Resolve build error (attempt 2)\r\n- Resolve build error (attempt 3)\r\n- Resolve build error (attempt 1)\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
