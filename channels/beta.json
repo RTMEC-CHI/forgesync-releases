@@ -1,14 +1,14 @@
 {
-  "version": "2026.0511.0350",
-  "tag": "beta-2026.0511.0350",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0511.0350/ForgeSync.exe",
-  "sha256": "c408ddcae9220c108f1bc31e4244bd246e52b8476668b413a7b4427dc878e1cb",
+  "version": "2026.0511.1758",
+  "tag": "beta-2026.0511.1758",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0511.1758/ForgeSync.exe",
+  "sha256": "56e5ea248267e409bb983c877394a8bff359962d5b20da0b659f29615b33540d",
   "size": 74815488,
-  "builtAtUtc": "2026-05-11T03:56:53Z",
+  "builtAtUtc": "2026-05-11T18:10:55Z",
   "sourceShas": {
     "forgesync": "7784f50",
     "rtm.revit.plugin.forge": "b0c2723",
-    "rtm.Revit.Plugin": "8aa15e6"
+    "rtm.Revit.Plugin": "205cf8c"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Replace sortforge-dragdrop tip with multisort tip (#1561)\r\n- Added completion confetti to HealthCheckWindow TriggerCompletionFlourish\" → (#1551)\r\n- Updated Theme System (#1548)\r\n- Fixed List Sheets With Revisions Settings Store (#1537)\r\n- Improved timer reuse in ForgeFloatingStatus (#1535)\r\n- Added MinWidth=\"780\" MinHeight=\"520\" to ParamForgeWindow (#1534)\r\n- Added SortForgeGuideOverlay (#1559)\r\n- Added anvilwyrm — Peer Review (#1550)\r\n- Added Floor Fall dodge survival mini-game to SortForgeWindow (#1547)\r\n- Fixed Fidget rewards convert restless interaction into delight (#1546)\r\n- The edit ate the TryReadClipboard method signature (#1542)\r\n- Added Arcade Profile Window. (#1538)\r\n- Added RTMTools.Commands behavior (#1530)\r\n- Added AutomationProperties (#1522)\r\n- Added RTMTools (#1517)\r\n- Replaced ApiCompat (#1516)\r\n- Added RTMTools (#1512)\r\n- Replaced CreateElementIdEqualsRule with ApiCompat.CreateEqualsRule (#1510)\r\n- Fixed README behavior (#1496)\r\n- Added PlayTitleAchievedCeremony and SetTitleRarityColor to ArcadeProfileWindow (#1495)\r\n- Fixed Dual-Target Compatibility behavior (#1491)\r\n- Fixed command name key in WayfinderTipEngine (#1490)\r\n- Added forgewyrm creator (#1511)\r\n- Added RPG & Gamification behavior (#1487)\r\n- Migrated ShowResults() TaskDialog in ToggleNoPlotNPTagsCommand (#1485)\r\n- Added save streak celebration system (#1480)\r\n- Added milestone confetti celebration and TAGSWARM achievements to BatchTagWindow (#1479)\r\n- Fixed Select Commands Window.Chibi Robo (#1467)\r\n- Added RTMTools (#1458)\r\n- Added achievementToastTickHandler, iconScaleDownCompletedHandler (#1457)\r\n- The status pill sits always-on in the Revit corner; every ~1.2s and ~4s (#1453)\r\n- Added FilterForgeGuideOverlay — a 4-step interactive walkthrough for FilterForge (#1452)\r\n- Fixed Import Project Info Window. (#1451)\r\n- Added missing Effect cleanup for SearchLabel and SearchIcon in FindForge (#1450)\r\n- Migrate 3 services to NomadFileSystem.WriteAllTextSafe (partial #1465) (#1563)\r\n- Add delete confirmation + AutomationProperties to KeyForge toolbar (#1528)\r\n- Resolve build error (attempt 3)\r\n- Improve SpaceInvaders particles + fix OnClosing visual-tree crash (#1562)\r\n\r\n_(+ 59 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n- Add shared repo agent skill\r\n\r\n\r\n"
 }
