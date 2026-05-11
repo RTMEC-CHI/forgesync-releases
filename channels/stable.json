@@ -1,14 +1,14 @@
 {
-  "version": "2026.0508.1257",
-  "tag": "stable-2026.0508.1257",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0508.1257/ForgeSync.exe",
-  "sha256": "76f04290a00c6d48ef34ddd2925ec09000a2f427b094bfe5180b05747a9a69a3",
+  "version": "2026.0511.1630",
+  "tag": "stable-2026.0511.1630",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0511.1630/ForgeSync.exe",
+  "sha256": "d9ae5656592c3e91d2e0427cc89babd54396330a987542767b45e6331abc9034",
   "size": 74618880,
-  "builtAtUtc": "2026-05-08T13:02:47Z",
+  "builtAtUtc": "2026-05-11T16:37:05Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "1226a02",
-    "rtm.Revit.Plugin": "8aa15e6"
+    "rtm.revit.plugin.forge": "f5bc38f",
+    "rtm.Revit.Plugin": "205cf8c"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n- Stage net10.0-windows in rtmtools payload\r\n\r\n### Forge Tools improvements\r\n\r\n_No commits since last build._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Add shared agent workflow docs\r\n\r\n### Plugin improvements\r\n\r\n- Add shared repo agent skill\r\n\r\n\r\n"
 }
