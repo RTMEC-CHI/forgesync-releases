@@ -1,14 +1,14 @@
 {
-  "version": "2026.0511.1630",
-  "tag": "stable-2026.0511.1630",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0511.1630/ForgeSync.exe",
-  "sha256": "d9ae5656592c3e91d2e0427cc89babd54396330a987542767b45e6331abc9034",
+  "version": "2026.0512.1945",
+  "tag": "stable-2026.0512.1945",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0512.1945/ForgeSync.exe",
+  "sha256": "88b90433489f73cfd03efb959b79f3685790da48cf47b5091de5c09a6ecab725",
   "size": 74618880,
-  "builtAtUtc": "2026-05-11T16:37:05Z",
+  "builtAtUtc": "2026-05-12T19:52:54Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "f5bc38f",
-    "rtm.Revit.Plugin": "205cf8c"
+    "rtm.revit.plugin.forge": "fe3cb7f",
+    "rtm.Revit.Plugin": "5dc4009"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Add shared agent workflow docs\r\n\r\n### Plugin improvements\r\n\r\n- Add shared repo agent skill\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n\r\n"
 }
