@@ -1,14 +1,14 @@
 {
-  "version": "2026.0512.1945",
-  "tag": "stable-2026.0512.1945",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0512.1945/ForgeSync.exe",
-  "sha256": "88b90433489f73cfd03efb959b79f3685790da48cf47b5091de5c09a6ecab725",
+  "version": "2026.0512.2116",
+  "tag": "stable-2026.0512.2116",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/stable-2026.0512.2116/ForgeSync.exe",
+  "sha256": "788e3abce1da3018c54a31c0024c9b2c15c762f4f0fab66aae75189057a934b6",
   "size": 74618880,
-  "builtAtUtc": "2026-05-12T19:52:54Z",
+  "builtAtUtc": "2026-05-12T21:22:07Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "fe3cb7f",
-    "rtm.Revit.Plugin": "5dc4009"
+    "rtm.revit.plugin.forge": "1db5dc4",
+    "rtm.Revit.Plugin": "0daca94"
   },
   "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n\r\n"
 }
