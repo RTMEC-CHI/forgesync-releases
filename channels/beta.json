@@ -1,14 +1,14 @@
 {
-  "version": "2026.0511.1959",
-  "tag": "beta-2026.0511.1959",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0511.1959/ForgeSync.exe",
-  "sha256": "5d4aa4bea3e984f3d00852acb33d229eb01a840bad8cd1e185ec31953cec097e",
+  "version": "2026.0512.0005",
+  "tag": "beta-2026.0512.0005",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0512.0005/ForgeSync.exe",
+  "sha256": "82e0cc5aee502f504b6abf62e74ab90ea5dd7cd8e8b662778887faed6e4b9bb5",
   "size": 74819584,
-  "builtAtUtc": "2026-05-11T20:04:56Z",
+  "builtAtUtc": "2026-05-12T00:10:37Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "c53cc31",
+    "rtm.revit.plugin.forge": "18725be",
     "rtm.Revit.Plugin": "205cf8c"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Resolve build error (attempt 3)\r\n- Restore InitializeIdleSecret call placement per cruciwyrm review\r\n- Release Revit KeynoteTable element on direct-attached files and dispose\r\n- Route Dispose-time keynote relinquish through ApiDispatcher\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Document-scope ApiDispatcher key for Dispose-time relinquish\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
