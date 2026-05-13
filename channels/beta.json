@@ -1,14 +1,14 @@
 {
-  "version": "2026.0513.0002",
-  "tag": "beta-2026.0513.0002",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.0002/ForgeSync.exe",
-  "sha256": "288cbb088d78b35cb53a93b99c21a390fe7bad820fb0910c838ef4876d0eab2b",
-  "size": 74819584,
-  "builtAtUtc": "2026-05-13T00:09:05Z",
+  "version": "2026.0513.0751",
+  "tag": "beta-2026.0513.0751",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.0751/ForgeSync.exe",
+  "sha256": "c648da1102ddfde2b6b5a01d91d4cb51a884540a98fa27172322a15e07cc9e49",
+  "size": 74860544,
+  "builtAtUtc": "2026-05-13T07:58:15Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "ff5fa17",
+    "rtm.revit.plugin.forge": "9e59e89",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n_Internal-only changes — 1 commit(s) hidden._\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Keynote tree UX overhaul + transactional rename/renumber\r\n- Parent Category dropdown shows all options on first click\r\n- Orphan-category rescue in Parent dropdown\r\n\r\n_(+ 4 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
