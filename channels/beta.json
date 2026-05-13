@@ -1,14 +1,14 @@
 {
-  "version": "2026.0513.1835",
-  "tag": "beta-2026.0513.1835",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.1835/ForgeSync.exe",
-  "sha256": "7744b3ec7304a02ee602ce6b9de866eea90e321a007e9f477bd9cafb994c2929",
+  "version": "2026.0513.2050",
+  "tag": "beta-2026.0513.2050",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.2050/ForgeSync.exe",
+  "sha256": "54d51677ab984da4cd2b4129947f96be7a7f36a08fadb45bcb40afbf78caf113",
   "size": 74876928,
-  "builtAtUtc": "2026-05-13T18:41:30Z",
+  "builtAtUtc": "2026-05-13T20:56:23Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "ea9d3b3",
+    "rtm.revit.plugin.forge": "e78b6c8",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Drain bar uses Width animation so it actually shrinks\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Retire LuxeSuccessBanner; results go through ForgeToast\r\n- Detect displaced room tags + add batch Clean & Retag\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
