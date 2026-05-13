@@ -1,14 +1,14 @@
 {
-  "version": "2026.0513.0751",
-  "tag": "beta-2026.0513.0751",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.0751/ForgeSync.exe",
-  "sha256": "c648da1102ddfde2b6b5a01d91d4cb51a884540a98fa27172322a15e07cc9e49",
-  "size": 74860544,
-  "builtAtUtc": "2026-05-13T07:58:15Z",
+  "version": "2026.0513.1610",
+  "tag": "beta-2026.0513.1610",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0513.1610/ForgeSync.exe",
+  "sha256": "31a913cbbb52fd7af2bbf3c7949515184a370cda28b1d976d69f293b09974ca9",
+  "size": 74876928,
+  "builtAtUtc": "2026-05-13T16:16:06Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "9e59e89",
+    "rtm.revit.plugin.forge": "f395c4e",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Keynote tree UX overhaul + transactional rename/renumber\r\n- Parent Category dropdown shows all options on first click\r\n- Orphan-category rescue in Parent dropdown\r\n\r\n_(+ 4 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Keyword-modifier icons + promoted-node positioning + drag-to-reorder categories\r\n- Overhaul Renumber as Sequence — smart defaults, live preview, click-to-continue chips\r\n- Preserve promoted-node anchor in user-ordered category list\r\n- Toast flow + incremental delta + scan perf\r\n\r\n_(+ 1 internal/noise commit(s) hidden)_\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
