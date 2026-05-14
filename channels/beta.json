@@ -1,14 +1,14 @@
 {
-  "version": "2026.0514.1522",
-  "tag": "beta-2026.0514.1522",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.1522/ForgeSync.exe",
-  "sha256": "0197394eba9791ba75435a9077fed618c835b326e21c2cf1a535db83311dcc01",
+  "version": "2026.0514.1950",
+  "tag": "beta-2026.0514.1950",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.1950/ForgeSync.exe",
+  "sha256": "4598739bc83fa492a6dea3356fd45ab2bebc3dcf0e80855980c67be5edc432e6",
   "size": 75085824,
-  "builtAtUtc": "2026-05-14T15:27:37Z",
+  "builtAtUtc": "2026-05-14T19:56:47Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "dbbdbe2",
+    "rtm.revit.plugin.forge": "8c0fcf5",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- V20 — first-segment ortho, single-snap auto-riser, live preview\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Change(about): default ForgeToast notifications off, reduce motion on\r\n- Retire \"Forge\" brand from user-facing surface\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
