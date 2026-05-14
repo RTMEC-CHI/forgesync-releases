@@ -1,14 +1,14 @@
 {
-  "version": "2026.0514.0003",
-  "tag": "beta-2026.0514.0003",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.0003/ForgeSync.exe",
-  "sha256": "f5c0b389b491919b07541ab832da375d567ab2579be1d3869fee7750f4585d00",
-  "size": 74926080,
-  "builtAtUtc": "2026-05-14T00:12:41Z",
+  "version": "2026.0514.0745",
+  "tag": "beta-2026.0514.0745",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.0745/ForgeSync.exe",
+  "sha256": "9da7c72444859bb9c903d4f7d0a1450e5f2388b860ae4236804296b359a62eb6",
+  "size": 75057152,
+  "builtAtUtc": "2026-05-14T07:51:36Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "abd9db5",
+    "rtm.revit.plugin.forge": "faa3d89",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Enrich snapshot + AABB pre-filter + virtualize grid\r\n- Room filters + centroid placement (RFTools parity)\r\n- Group-by-sheet + discipline filter\r\n- Build Spaces tab — create + sync + diagnostics\r\n- Audit pass — 6 correctness gaps in the perf+MEP work\r\n- Wire diagnostic logging with 7-day retention\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Add Splice Forge command to Systems panel\r\n- Add Parallel Piping tool to PipeForge panel\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
