@@ -1,14 +1,14 @@
 {
-  "version": "2026.0514.0745",
-  "tag": "beta-2026.0514.0745",
-  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.0745/ForgeSync.exe",
-  "sha256": "9da7c72444859bb9c903d4f7d0a1450e5f2388b860ae4236804296b359a62eb6",
-  "size": 75057152,
-  "builtAtUtc": "2026-05-14T07:51:36Z",
+  "version": "2026.0514.1423",
+  "tag": "beta-2026.0514.1423",
+  "downloadUrl": "https://github.com/RTMEC-CHI/forgesync-releases/releases/download/beta-2026.0514.1423/ForgeSync.exe",
+  "sha256": "09447fb741b81ac4ae6d90b51ecf7ced954208f247bc17d5a57ad4def71b3e9e",
+  "size": 75081728,
+  "builtAtUtc": "2026-05-14T14:28:26Z",
   "sourceShas": {
     "forgesync": "7784f50",
-    "rtm.revit.plugin.forge": "faa3d89",
+    "rtm.revit.plugin.forge": "7b3fae0",
     "rtm.Revit.Plugin": "0daca94"
   },
-  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Add Splice Forge command to Systems panel\r\n- Add Parallel Piping tool to PipeForge panel\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
+  "releaseNotesMarkdown": "## What's new in this update\r\n\r\n### Forge Sync improvements\r\n\r\n_No commits since last build._\r\n\r\n### Forge Tools improvements\r\n\r\n- Tag dropdown silently dropped families on corrupt symbols\r\n- V11–v19 — drawing assist, view-aware Z, smart snap, polish\r\n\r\n### Plugin improvements\r\n\r\n_No commits since last build._\r\n\r\n\r\n"
 }
